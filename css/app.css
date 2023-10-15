@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.box{
+	width: 350px;
+	height: 350px;
+	background-color: blue;
+/*position: absolute;*/
+	text-align: center;
+	font-size: 48px;
+	line-height: 350px;
+	color: #fff;
+	/*  display: none;  */
+}
+
+
+button{
+	padding: 7px;
+	background-color: gray;
+	color: #000;
+	text-align: center;
+	font-weight: bold;
+	font-size: 18px;
+}
+.c {
+	color: red;
+}
